@@ -1,0 +1,25 @@
+body {
+  background-color: yellowgreen;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  font-style: oblique;
+
+}
+
+h2 {
+  color: brown;
+  font-style: unset;
+  color: maroon;
+}
+
+li {
+  color: crimson;
+  font-size: 30px;
+}
+
+p {
+  color: rgb(163, 83, 17);
+  font-style: italic;
+}
